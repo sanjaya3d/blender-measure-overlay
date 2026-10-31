@@ -7,7 +7,7 @@
 
 Measure Overlay is a free Blender add-on that draws **live dimensions and geometry stats directly in the 3D viewport**: object size, vertex, edge and face counts, and an optional face budget. No need to keep the sidebar open or switch on the Statistics overlay.
 
-![Measure Overlay screenshot 1](main/Screenshot.png)
+![Measure Overlay screenshot 1](Screenshot.png)
 
 ![Measure Overlay screenshot 2](main/export-1793434757409.mp4)
 
