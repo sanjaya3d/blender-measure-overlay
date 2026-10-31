@@ -9,7 +9,7 @@ Measure Overlay is a free Blender add-on that draws **live dimensions and geomet
 
 ![Measure Overlay screenshot 1](Screenshot.png)
 
-![Measure Overlay screenshot 2](export-1793434757409.mp4)
+![Measure Overlay screenshot 2](Screenshot.gif)
 
 ## Features
 
